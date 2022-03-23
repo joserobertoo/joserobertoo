@@ -60,7 +60,7 @@
 <br/>  
 
 
-## Conecte-se comigo
+## Conecte-se Comigo
 <div align="center">
 <a href="https://github.com/joserobertoo" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -82,7 +82,7 @@
 <!--If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. -->
 <!-- BLOG-POST-LIST:END -->  
 
-## Ouvindo agora
+## Ouvindo Agora
 
 <br/>  
 
